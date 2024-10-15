@@ -2,7 +2,7 @@
 ## Ввести следующие команды в консоль (при первом запуске все, далее - при повторных запусках - выполнить только 4 шаг, соответственно модель сможет работать автономно т.к. все библиотеки ранее уже были загружены):
 1. python -m venv venv
 2. venv\Scripts\activate - для Windows, source venv/bin/activate - для Макбука
-3. pip install requirements.txt
+3. pip install -r requirements.txt
 4. streamlit run main.py
 
 # Пояснение к файлам:
